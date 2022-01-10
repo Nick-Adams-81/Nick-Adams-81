@@ -1,5 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on finishing Codeup
+- 🔭 I’m currently working on my portfolio site, i'm using react.js to build it.
+- - 🌱 I’m currently learning Java while attending Codeup.
+- - 📫 How to reach me: 
+- Email: nick.pappas.adams@gmail.com
+- Phone: (916) 996-1799
+- Linkedin: https://www.linkedin.com/in/nick-p-adams/
+
 
 <!--
 **Nick-Adams-81/Nick-Adams-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
