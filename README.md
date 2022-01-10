@@ -1,6 +1,6 @@
 ### Hi there, my name is Nick👋
 - 🔭 I’m currently working on my portfolio site, i'm using react.js to build it.
-- - 🌱 I’m currently learning Java/Spring while attending Codeup.
+-  🌱 I’m currently learning Java/Spring while attending Codeup.
 - - 📫 How to reach me: 
 - Email: nick.pappas.adams@gmail.com
 - Phone: (916) 996-1799
