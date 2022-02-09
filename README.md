@@ -1,4 +1,4 @@
- <h3 align="center"> ### Hi there, my name is Nick👋</h3>
+ <h3 align="center">  Hi there, my name is Nick👋</h3>
 
 
 - 🔭 I’m currently working on my portfolio site, i'm using react.js to build it.
