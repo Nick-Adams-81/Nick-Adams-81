@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my portfolio site, i'm using react.js to build it.
--  🌱 I’m working on Wander app using Java/Spring.
+-  🌱 I’m working on learning the basics of C#.
 
 
 - - 📫 How to reach me: 
