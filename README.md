@@ -1,8 +1,8 @@
  <h3 align="center">  Hi there, my name is Nick👋</h3>
 
 
-- 🔭 I’m currently working on my portfolio site, i'm using react.js to build it.
--  🌱 I’m working on learning the basics of C#.
+- 🔭 I’m currently working on the TCH Spreadsheet, i'm using Java/Spring for the backend and JavaScript for the front end calculations.
+-  🌱 I’m also working on learning C#.
 
 
 - - 📫 How to reach me: 
