@@ -1,7 +1,7 @@
  <h3 align="center">  Hi there, my name is Nick👋</h3>
 
 
-- 🔭 I’m currently working on the TCH Spreadsheet, i'm using Java/Spring for the backend and JavaScript for the front end calculations.
+- 🔭 I’m currently working on Big-O notation, Data Structures, and Algorithms in Java.
 -  🌱 I’m also working on learning C#.
 
 
