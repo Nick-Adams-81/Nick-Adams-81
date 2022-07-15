@@ -2,8 +2,6 @@
 
 
 - 🔭 I’m currently working on Big-O notation, Data Structures, and Algorithms in Java.
--  🌱 I’m also working on learning C#.
-
 
 - - 📫 How to reach me: 
 - Email: nick.pappas.adams@gmail.com
